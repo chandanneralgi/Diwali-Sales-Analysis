@@ -24,7 +24,7 @@ This project aims to analyze Diwali sales data to enhance customer experience an
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd <project_directory>
+   cd Diwali-Sales-Analysis
    ```
 3. **Install the Required Libraries**:
    ```bash
