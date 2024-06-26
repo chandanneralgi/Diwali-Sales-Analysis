@@ -20,7 +20,7 @@ This project aims to analyze Diwali sales data to enhance customer experience an
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/chandanneralgi/Diwali-Sales-Analysis.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
